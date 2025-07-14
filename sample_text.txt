@@ -1,0 +1,25 @@
+This is a sample documnt with severl mispelled words.
+
+The spell chekcer should identyfy these erors and provde
+usefull sugestions for corection.
+
+Here are some commn typos:
+- teh instead of the
+- adn instead of and
+- recieve instead of receive
+- seperate instead of separate
+- occured instead of occurred
+
+The spell checker should also handle contractions like:
+- don't
+- can't
+- won't
+- it's
+
+Numbers like 123, 456.78, and URLs like https://example.com
+should be ignored by default.
+
+Email addresses like user@example.com should also be ignored.
+
+This text containz enough erors to demonstrate the
+functionality of our spell cheker implementation.

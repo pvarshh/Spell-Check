@@ -1,0 +1,7 @@
+/Users/parney2004/Desktop/Spell Check/build/CMakeFiles/spell_checker.dir
+/Users/parney2004/Desktop/Spell Check/build/CMakeFiles/edit_cache.dir
+/Users/parney2004/Desktop/Spell Check/build/CMakeFiles/rebuild_cache.dir
+/Users/parney2004/Desktop/Spell Check/build/CMakeFiles/list_install_components.dir
+/Users/parney2004/Desktop/Spell Check/build/CMakeFiles/install.dir
+/Users/parney2004/Desktop/Spell Check/build/CMakeFiles/install/local.dir
+/Users/parney2004/Desktop/Spell Check/build/CMakeFiles/install/strip.dir
